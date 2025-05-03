@@ -1,3 +1,8 @@
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://i.postimg.cc/0QHsGj5L/Whats-App-Image-2025-05-03-at-20-50-11-67665763.jpg" width="100%" alt="Sahish Joshi Banner"/>
+</p>
+
 # 👋 Hi, I'm Sahish Joshi
 
 ### 🧑‍💻 Computer Engineering Student | 🚀 Aspiring Developer | 💡 Always Learning
@@ -9,49 +14,37 @@ I enjoy bringing ideas to life through code and continuously improving my skills
 
 ### 🚧 Projects I'm Working On
 
-- 🎓 **College Management System** – A feature-rich desktop application (not using Tkinter) with:
-  - Login system (Admin/Staff)
-  - Attendance tracking
-  - Fee management
-  - Export to Excel/PDF
-  - Light/Dark theme support
+- 🎓 **College Management System** – A feature-rich desktop application (not using Tkinter) with modules like login, attendance tracking, fee management, export to Excel/PDF, and dark/light theme support.
+- 🤖 **Mark AI Assistant** – A personal Python-based assistant with voice commands, chatbot (GPT), app launcher, and modern GUI.
+- 🎨 GUI experiments with clean layouts, animations, and professional theming.
 
-- 🤖 **Mark AI Assistant** – A personal Python-based assistant with:
-  - Voice command support
-  - GPT-powered chatbot
-  - App launcher
-  - Modern, animated GUI
-
-- 🎨 GUI experiments – Building modern layouts with animations, responsive themes, and visual polish.
-
-📌 These are under active development — follow me to stay updated!
+🛠️ These are under active development – follow me to stay updated!
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![OOP](https://img.shields.io/badge/-OOP-6A1B9A?style=flat-square&logo=code&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![OOP](https://img.shields.io/badge/OOP-6A1B9A?style=for-the-badge&logo=code&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
 ### 📚 Currently Learning
 
-- Advanced GUI frameworks (customTkinter, PyQt)
+- GUI frameworks (beyond Tkinter)
 - SQLite/MySQL database integration
-- Building themed, responsive desktop apps
 - App Development (Android/Desktop)
-- Integrating ChatGPT & AI APIs
-- GitHub Pages & portfolio hosting
+- Building responsive, themed desktop apps
+- AI + ChatGPT API integration in personal projects
 
 ---
 
