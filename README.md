@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.postimg.cc/0QHsGj5L/Whats-App-Image-2025-05-03-at-20-50-11-67665763.jpg" width="100%" alt="Sahish Joshi Banner"/>
+  <img src="https://i.postimg.cc/0QHsGj5L/Whats-App-Image-2025-05-03-at-20-50-11-67665763.jpg" width="100%" alt="Sahish Joshi Portfolio Banner"/>
 </p>
 
 # 👋 Hi, I'm Sahish Joshi
@@ -14,9 +14,9 @@ I enjoy bringing ideas to life through code and continuously improving my skills
 
 ### 🚧 Projects I'm Working On
 
-- 🎓 **College Management System** – A feature-rich desktop application (not using Tkinter) with modules like login, attendance tracking, fee management, export to Excel/PDF, and dark/light theme support.
-- 🤖 **Mark AI Assistant** – A personal Python-based assistant with voice commands, chatbot (GPT), app launcher, and modern GUI.
-- 🎨 GUI experiments with clean layouts, animations, and professional theming.
+- 🎓 **[College Management System](https://github.com/Sahish-joshi18)** – A feature-rich desktop application (not using Tkinter) with login, attendance tracking, fee management, Excel/PDF export, and dark/light themes.
+- 🤖 **Mark AI Assistant** – A Python-based personal assistant with voice commands, chatbot (GPT integration), app launcher, and a modern GUI.
+- 🎨 GUI Experiments – Creating clean, animated desktop UIs with custom theming and layout enhancements.
 
 🛠️ These are under active development – follow me to stay updated!
 
@@ -24,17 +24,26 @@ I enjoy bringing ideas to life through code and continuously improving my skills
 
 ### 🛠️ Tech Stack & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![OOP](https://img.shields.io/badge/OOP-6A1B9A?style=for-the-badge&logo=code&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<p align="left">
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" alt="C++"/>
+  
+  <!-- Web Development -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  
+  <!-- Core Concepts & Databases -->
+  <img src="https://img.shields.io/badge/OOP-6A1B9A?style=for-the-badge&logo=code&logoColor=white" alt="OOP"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+</p>
 
 ---
 
@@ -59,3 +68,4 @@ I enjoy bringing ideas to life through code and continuously improving my skills
 ---
 
 _“The best way to predict the future is to invent it.” – Alan Kay_
+v
