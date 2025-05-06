@@ -10,11 +10,18 @@
 I'm currently exploring the world of software development, focusing on desktop applications, automation, and AI integration.  
 I enjoy bringing ideas to life through code and continuously improving my skills.
 
+<!-- Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Student-Computer%20Engineering-4CAF50?style=for-the-badge&logo=academia&logoColor=white" alt="Student Badge"/>
+  <img src="https://img.shields.io/badge/Passionate-Developer-orange?style=for-the-badge&logo=developer-mode&logoColor=white" alt="Passionate Developer"/>
+  <img src="https://img.shields.io/badge/Learning-Every%20Day-blueviolet?style=for-the-badge&logo=readme&logoColor=white" alt="Learning Badge"/>
+</p>
+
 ---
 
 ### 🚧 Projects I'm Working On
 
-- 🎓 **[College Management System](https://github.com/Sahish-joshi18)** – A feature-rich desktop application (not using Tkinter) with login, attendance tracking, fee management, Excel/PDF export, and dark/light themes.
+- 🎓 **[College Management System]** – A feature-rich desktop application (not using Tkinter) with login, attendance tracking, fee management, Excel/PDF export, and dark/light themes.
 - 🤖 **Mark AI Assistant** – A Python-based personal assistant with voice commands, chatbot (GPT integration), app launcher, and a modern GUI.
 - 🎨 GUI Experiments – Creating clean, animated desktop UIs with custom theming and layout enhancements.
 
@@ -68,4 +75,3 @@ I enjoy bringing ideas to life through code and continuously improving my skills
 ---
 
 _“The best way to predict the future is to invent it.” – Alan Kay_
-v
