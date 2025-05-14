@@ -21,9 +21,9 @@ I enjoy bringing ideas to life through code and continuously improving my skills
 
 ### 🚧 Projects I'm Working On
 
-- 🎓 **[College Management System]** – A feature-rich desktop application (not using Tkinter) with login, attendance tracking, fee management, Excel/PDF export, and dark/light themes.
+- 🎓 **College Management System** – A feature-rich desktop application (not using Tkinter) with login, attendance tracking, fee management, Excel/PDF export, and dark/light themes.
 - 🤖 **Mark AI Assistant** – A Python-based personal assistant with voice commands, chatbot (GPT integration), app launcher, and a modern GUI.
-- 🎨 GUI Experiments – Creating clean, animated desktop UIs with custom theming and layout enhancements.
+- 🎨 **GUI Experiments** – Creating clean, animated desktop UIs with custom theming and layout enhancements.
 
 🛠️ These are under active development – follow me to stay updated!
 
@@ -66,11 +66,12 @@ I enjoy bringing ideas to life through code and continuously improving my skills
 
 ### 📫 Let's Connect
 
-- 🌐 GitHub: [Sahish-joshi18](https://github.com/Sahish-joshi18)
-- 💼 LinkedIn: [Sahish Joshi](https://www.linkedin.com/in/sahish-joshi-0531762a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- 📘 Facebook: [facebook.com/share/1AmY3UJ3Wp](https://www.facebook.com/share/1AmY3UJ3Wp/)
-- 📸 Instagram: [@sahish.joshi](https://www.instagram.com/sahish.joshi?igsh=MTl2MzBheW9kYXlmNg==)
-- 📧 Email: sahishjoshi18@gmail.com
+- 🌐 **Portfolio Website**: [sahishjoshi.netlify.app](https://sahishjoshi.netlify.app/)
+- 💻 **GitHub**: [Sahish-joshi18](https://github.com/Sahish-joshi18)
+- 💼 **LinkedIn**: [Sahish Joshi](https://www.linkedin.com/in/sahish-joshi-0531762a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 📘 **Facebook**: [facebook.com/share/1AmY3UJ3Wp](https://www.facebook.com/share/1AmY3UJ3Wp/)
+- 📸 **Instagram**: [@sahish.joshi](https://www.instagram.com/sahish.joshi?igsh=MTl2MzBheW9kYXlmNg==)
+- 📧 **Email**: sahishjoshi18@gmail.com
 
 ---
 
