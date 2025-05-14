@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.postimg.cc/0QHsGj5L/Whats-App-Image-2025-05-03-at-20-50-11-67665763.jpg" width="100%" alt="Sahish Joshi Portfolio Banner"/>
+  <img src="https://i.postimg.cc/SsgTzrJH/profile-banner.png" width="100%" alt="Sahish Joshi Portfolio Banner"/>
 </p>
 
 # 👋 Hi, I'm Sahish Joshi
