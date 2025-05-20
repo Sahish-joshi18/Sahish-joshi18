@@ -1,74 +1,98 @@
-<!-- Banner -->
+<!-- Banner Image -->
 <p align="center">
-  <img src="https://github.com/Sahish-joshi18/Sahish-joshi18/blob/main/assets/banner.png" alt="Banner" width="100%" />
+  <img src="https://i.postimg.cc/SsgTzrJH/profile-banner.png" width="100%" alt="Sahish Joshi Portfolio Banner"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm Sahish Joshi</h1>
-<h3 align="center">Student | Developer | Tech Enthusiast</h3>
+# 👋 Hi, I'm Sahish Joshi
 
----
+### 🧑‍💻 Computer Engineering Student | 🚀 Aspiring Developer | 💡 Always Learning
 
-### 🙋‍♂️ About Me
+I'm currently exploring the world of software development, focusing on desktop applications, automation, and AI integration.  
+I enjoy bringing ideas to life through code and continuously improving my skills.
 
-- 🎓 I’m currently studying Computer Engineering
-- 💻 Passionate about building Python apps, desktop GUIs, and AI-based tools
-- 🚀 Currently working on: `Mark - AI Assistant` and `College Management System (Tkinter)`
-- 🌱 Learning: **React**, **API integration**, and **full-stack development**
-- 📫 Reach me at: sahishjoshi18@gmail.com
-
----
-
-### 🛠️ Tech Stack
-
-#### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-#### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-#### 🖥️ GUI / Frameworks
-![Tkinter](https://img.shields.io/badge/Tkinter-FF8C00?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-#### 📦 Database & Tools
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-### 📂 Projects
-
-| Project | Description |
-|--------|-------------|
-| 🎙️ [Mark AI Assistant](https://github.com/Sahish-joshi18/Mark-AI) | Your personal voice-based AI assistant with GUI, app launcher, and OpenAI integration. |
-| 🏫 [College Management System](https://github.com/Sahish-joshi18/College-Management-System) | Tkinter app for managing students, attendance, fees, and login with theme toggle and PDF export. |
-| 🌐 [Portfolio Website](#) *(Coming soon!)* | A personal site to showcase my journey, projects, and resume.
-
----
-
-### 📈 GitHub Stats
-
+<!-- Badges -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sahish-joshi18&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sahish-joshi18&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/Student-Computer%20Engineering-4CAF50?style=for-the-badge&logo=academia&logoColor=white" alt="Student Badge"/>
+  <img src="https://img.shields.io/badge/Passionate-Developer-orange?style=for-the-badge&logo=developer-mode&logoColor=white" alt="Passionate Developer"/>
+  <img src="https://img.shields.io/badge/Learning-Every%20Day-blueviolet?style=for-the-badge&logo=readme&logoColor=white" alt="Learning Badge"/>
 </p>
 
 ---
 
-### 🌐 Connect with Me
+### 🚧 Projects I'm Working On
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahish-joshi-0531762a8)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sahish.joshi)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1AmY3UJ3Wp/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahishjoshi18@gmail.com)
+- 🎓 [College Management System](https://github.com/Sahish-joshi18/college-management-system) – A feature-rich desktop application (not using Tkinter) with login, attendance tracking, fee management, Excel/PDF export, and dark/light themes.
+- 🤖 [Mark AI Assistant](https://github.com/Sahish-joshi18/mark-ai-assistant) – A Python-based personal assistant with voice commands, chatbot (GPT integration), app launcher, and a modern GUI.
+- 🎨 GUI Experiments – Creating clean, animated desktop UIs with custom theming and layout enhancements.
+
+### ✅ Completed Projects
+
+- 🕹️ [Tic-Tac-Toe Game](https://sahishtictactoe.netlify.app/) – Classic 3x3 Tic-Tac-Toe game with 2-player mode and vs computer mode, implemented using HTML, CSS, and JavaScript.
+- 🌐 [Portfolio Website](https://sahishjoshi.netlify.app/) – My personal portfolio showcasing projects, skills, and contact details with clean, responsive design.
 
 ---
 
-⚡ *Always building. Always learning.*
+### 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" alt="C++"/>
+  
+  <!-- Web Development -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  
+  <!-- Core Concepts & Databases -->
+  <img src="https://img.shields.io/badge/OOP-6A1B9A?style=for-the-badge&logo=code&logoColor=white" alt="OOP"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+</p>
+
+---
+
+### 📚 Currently Learning
+
+- GUI frameworks (beyond Tkinter)
+- SQLite/MySQL database integration
+- App Development (Android/Desktop)
+- Building responsive, themed desktop apps
+- AI + ChatGPT API integration in personal projects
+
+---
+
+### 📫 Let's Connect
+
+- 🌐 **Portfolio Website**: [sahishjoshi.netlify.app](https://sahishjoshi.netlify.app/)
+- 💻 **GitHub**: [Sahish-joshi18](https://github.com/Sahish-joshi18)
+- 💼 **LinkedIn**: [Sahish Joshi](https://www.linkedin.com/in/sahish-joshi-0531762a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- 📘 **Facebook**: [facebook.com/share/1AmY3UJ3Wp](https://www.facebook.com/share/1AmY3UJ3Wp/)
+- 📸 **Instagram**: [@sahish.joshi](https://www.instagram.com/sahish.joshi?igsh=MTl2MzBheW9kYXlmNg==)
+- 📧 **Email**: sahishjoshi18@gmail.com
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sahish-joshi18&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahish-joshi18&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 👁️ Visitor Count
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Sahish-joshi18" alt="Visitor Badge" />
+</p>
+
+---
+
+_“The best way to predict the future is to invent it.” – Alan Kay_ 
