@@ -78,4 +78,21 @@ I enjoy bringing ideas to life through code and continuously improving my skills
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sahish-joshi18&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahish-joshi18&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 👁️ Visitor Count
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Sahish-joshi18" alt="Visitor Badge" />
+</p>
+
+---
+
 _“The best way to predict the future is to invent it.” – Alan Kay_
