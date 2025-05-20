@@ -36,7 +36,6 @@ I enjoy bringing ideas to life through code and continuously improving my skills
 
 <p align="left">
   <!-- Programming Languages -->
-  java![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=openjdk&logoColor=white)
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white" alt="C++"/>
