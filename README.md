@@ -23,7 +23,6 @@ I enjoy bringing ideas to life through code and continuously improving my skills
 
 - 🎓 [College Management System](https://github.com/Sahish-joshi18/college-management-system) – A feature-rich desktop application (not using Tkinter) with login, attendance tracking, fee management, Excel/PDF export, and dark/light themes.
 - 🤖 [Mark AI Assistant](https://github.com/Sahish-joshi18/mark-ai-assistant) – A Python-based personal assistant with voice commands, chatbot (GPT integration), app launcher, and a modern GUI.
-- 🎨 GUI Experiments – Creating clean, animated desktop UIs with custom theming and layout enhancements.
 
 ### ✅ Completed Projects
 
@@ -95,4 +94,4 @@ I enjoy bringing ideas to life through code and continuously improving my skills
 
 ---
 
-_“The best way to predict the future is to invent it.” – Alan Kay_ 
+_“The best way to predict the future is to invent it.” – Alan Kay_
