@@ -21,11 +21,14 @@ I enjoy bringing ideas to life through code and continuously improving my skills
 
 ### 🚧 Projects I'm Working On
 
-- 🎓 **College Management System** – A feature-rich desktop application (not using Tkinter) with login, attendance tracking, fee management, Excel/PDF export, and dark/light themes.
-- 🤖 **Mark AI Assistant** – A Python-based personal assistant with voice commands, chatbot (GPT integration), app launcher, and a modern GUI.
-- 🎨 **GUI Experiments** – Creating clean, animated desktop UIs with custom theming and layout enhancements.
+- 🎓 [College Management System](https://github.com/Sahish-joshi18/college-management-system) – A feature-rich desktop application (not using Tkinter) with login, attendance tracking, fee management, Excel/PDF export, and dark/light themes.
+- 🤖 [Mark AI Assistant](https://github.com/Sahish-joshi18/mark-ai-assistant) – A Python-based personal assistant with voice commands, chatbot (GPT integration), app launcher, and a modern GUI.
+- 🎨 GUI Experiments – Creating clean, animated desktop UIs with custom theming and layout enhancements.
 
-🛠️ These are under active development – follow me to stay updated!
+### ✅ Completed Projects
+
+- 🕹️ [Tic-Tac-Toe Game](https://sahishtictactoe.netlify.app/) – Classic 3x3 Tic-Tac-Toe game with 2-player mode and vs computer mode, implemented using HTML, CSS, and JavaScript.
+- 🌐 [Portfolio Website](https://sahishjoshi.netlify.app/) – My personal portfolio showcasing projects, skills, and contact details with clean, responsive design.
 
 ---
 
